@@ -85,7 +85,7 @@ button:hover, button:focus,
   color: white;
 }
 
-.navigation-list__item--active {
+.navigation-list-item-active {
   text-decoration: none;
 }
   
